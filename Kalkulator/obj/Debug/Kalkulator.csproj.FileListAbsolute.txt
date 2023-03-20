@@ -1,0 +1,21 @@
+C:\Users\elere\OneDrive\University PS\Programowanie C#\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\elere\OneDrive\University PS\Programowanie C#\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\elere\OneDrive\University PS\Programowanie C#\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\elere\OneDrive\University PS\Programowanie C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\elere\OneDrive\University PS\Programowanie C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+C:\Users\elere\OneDrive\University PS\Programowanie C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\elere\OneDrive\University PS\Programowanie C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\elere\OneDrive\University PS\Programowanie C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\elere\OneDrive\University PS\Programowanie C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\elere\OneDrive\University PS\Programowanie C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+D:\pb137\Programowanie C#\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+D:\pb137\Programowanie C#\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+D:\pb137\Programowanie C#\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\pb137\Programowanie C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+D:\pb137\Programowanie C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+D:\pb137\Programowanie C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+D:\pb137\Programowanie C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+D:\pb137\Programowanie C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+D:\pb137\Programowanie C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+D:\pb137\Programowanie C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\elere\OneDrive\University PS\Programowanie C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
