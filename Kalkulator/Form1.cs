@@ -244,6 +244,9 @@ namespace Kalkulator
                 {
                     textBox_equation.Text = s.Substring(0, s.Length - 1);
                     calculate_result();
+                } else
+                {
+                    textBox_equation.Text = s.Substring(0, s.Length - 1);
                 }
             } else if(operations.Count > 0)
             {
